@@ -1,6 +1,7 @@
 <details>
 
 <summary>Activision/Blizzard</summary>
+
 * Ignored Complaints of sexual harassment
 * Harassment potentially led to the suicide of an employee
 * Allegedly withheld raises from Raven Software employee’s over unionizing

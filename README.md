@@ -2,7 +2,7 @@
 
 <summary>Activision/Blizzard</summary>
 
-* Ignored Complaints of sexual harassment
+* Ignored Complaints of [sexual harassment](https://www.forbes.com/sites/tylerroush/2023/02/03/activision-blizzard-will-pay-sec-35-million-to-settle-claims-over-its-workplace-misconduct-disclosures/?sh=6e64930c642d)
 * Harassment potentially led to the suicide of an employee
 * Allegedly withheld raises from Raven Software employee’s over unionizing
 

@@ -2,7 +2,7 @@
   
 Welcome to my tiny internet corner where I cry about things or something
 
-<span class="bigtext">
+<div class="bigtext">
   
 [H.eck E.very C.apitalist C.orporation](/hecclist.md)
 

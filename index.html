@@ -1,60 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover"
+    />
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport"
-    content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+    <!-- Replace with your own title and description. -->
+    <title>help its kinda gay in here</title>
+    <meta name="description" content="no really it is" />
 
-  <!-- Replace with your own title and description. -->
-  <title>help its kinda gay in here</title>
-  <meta name="description" content="no really it is">
+    <!-- Theme: Simple Dark -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/catppuccin-docsify/macchiato/pink.css"
+    />
+  </head>
 
- <!-- Theme: Simple Dark -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
-<!-- Custom theme styles -->
-<style>
-  :root {
-  --border-radius-l : ;
-  --base-font-size: 14px;
-  --theme-color   : purple;
-}
-</style>
+  <body>
+    <div id="app"></div>
 
+    <script>
+      // Docsify Configuration (see https://docsify.js.org/#/configuration)
+      window.$docsify = {
+        name: "Mayu's Collection of Random Things",
 
-</head>
+        // Sidebar Configuration
+        auto2top: true,
+        loadSidebar: true,
+        maxLevel: 0,
+        // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
+        subMaxLevel: 3,
 
-<body>
-  <div id="app"></div>
+        // Search Plugin Configuration
+        search: {
+          placeholder: "Type to search",
+          noData: "No matches found.",
+          // Headline depth, 1 - 6
+          depth: 2,
+        },
+      };
+    </script>
 
-  <script>
-    // Docsify Configuration (see https://docsify.js.org/#/configuration)
-    window.$docsify = {
-      name: 'Mayu.gay',
+    <!-- Required -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 
-      // Sidebar Configuration
-      auto2top: true,
-      loadSidebar: true,
-      maxLevel: 0,
-      // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
-      subMaxLevel: 3,
-
-      // Search Plugin Configuration
-      search: {
-        placeholder: 'Type to search',
-        noData: 'No matches found.',
-        // Headline depth, 1 - 6
-        depth: 2,
-      }
-    };
-  </script>
-
-  <!-- Required -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-
-  <!-- Recommended -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-
-</body>
+    <!-- Recommended -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  </body>
 </html>

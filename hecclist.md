@@ -9,14 +9,14 @@
 <details>
   <summary># Bethesda</summary>
 
-* Allegedly didn’t pay Russian development studio Madia for “Echelon” box sales. (Bethesda’s follow-up letter)
-* Accused of attempting a hostile acquisition of Human Head Studios. 
-* Alleged successful hostile acquisition of Arkane Studios. 
-* Filed a lawsuit against Mojang over planned trademark title “Scrolls”.
-* Filed a lawsuit against Fallout’s original creators Interplay.
-* Fallout 76 as a whole. Bugs, glitches, absence of npc’s, the canvas bag incident, the canvas bag data breach, etc. Worthwhile watch from the Internet Historian covering it all: The Fall of 76
-* Pioneered/started microtransactions/dlc with the Oblivion horse armor
-* Overarcing article about Bethesda controversies. 
-* Left bizarre replies to negative feedback on Steam - YongYea, basically telling players what they feel is wrong. 
-* Just like when they blamed the games horrible optimization on players having bad computers, when modders fixed the performance quickly. 
+* Allegedly didn’t pay Russian development studio Madia for “Echelon” [box sales](https://www.bluesnews.com/a/268/open-letter-to-bethesda-softworks). ([Bethesda’s follow-up letter](https://www.bluesnews.com/cgi-bin/board.pl?action=viewthread&boardid=1&threadid=30665&id=15756&start=20))
+* Accused of attempting a hostile acquisition of [Human Head Studios](https://www.ign.com/articles/2013/06/05/what-went-wrong-with-human-heads-prey-2). 
+* Alleged successful hostile acquisition of [Arkane Studios](https://metro.co.uk/2016/05/25/bethesda-may-be-planning-prey-2-reveal-at-e3-5903789/). 
+* Filed a lawsuit against Mojang over planned trademark title [“Scrolls”](https://www.gamedeveloper.com/business/bethesda-mojang-settle-scrolls-trademark-lawsuit).
+* Filed a lawsuit against Fallout’s [original creators Interplay](https://www.gamedeveloper.com/pc/bethesda-sues-interplay-over-use-of-i-fallout-i-license).
+* Fallout 76 as a whole. Bugs, glitches, absence of npc’s, the [canvas bag incident](https://www.eurogamer.net/bethesda-pledges-500-atoms-to-customers-affected-by-fallout-76-bag-gate), the [canvas bag data breach](https://www.forbes.com/sites/erikkain/2018/12/05/a-fallout-76-support-glitch-leaked-players-personal-information-for-all-the-world-to-see/?sh=ca63f0278d66), etc. Worthwhile watch from the Internet Historian covering it all: [The Fall of 76](https://youtu.be/kjyeCdd-dl8)
+* Pioneered/started microtransactions/dlc with the [Oblivion horse armor](https://youtu.be/ZnSwflaCUKE).
+* [Overarcing article about Bethesda controversies](https://www.svg.com/141234/the-shady-side-of-bethesda/). 
+* Left bizarre replies to [negative feedback on Steam - YongYea](https://www.youtube.com/watch?v=oyg1zOEc0e0), basically telling players what they feel is wrong. 
+* Just like when they blamed the games [horrible optimization](https://www.reddit.com/r/linux_gaming/comments/16fk1cs/major_programming_faults_discovered_in_starfields/) on players [having bad computers](https://www.pcworld.com/article/2058969/trouble-running-starfield-todd-howard-says-upgrade-your-pc.html), when modders fixed the [performance quickly](https://github.com/HansKristian-Work/vkd3d-proton/commit/88e4f300cc0b5b6f0880c1233d562cf506b546fb). 
 </details>

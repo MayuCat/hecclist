@@ -20,3 +20,40 @@
 * Left bizarre replies to [negative feedback on Steam - YongYea](https://www.youtube.com/watch?v=oyg1zOEc0e0), basically telling players what they feel is wrong. 
 * Just like when they blamed the games [horrible optimization](https://www.reddit.com/r/linux_gaming/comments/16fk1cs/major_programming_faults_discovered_in_starfields/) on players [having bad computers](https://www.pcworld.com/article/2058969/trouble-running-starfield-todd-howard-says-upgrade-your-pc.html), when modders fixed the [performance quickly](https://github.com/HansKristian-Work/vkd3d-proton/commit/88e4f300cc0b5b6f0880c1233d562cf506b546fb). 
 </details>
+
+
+<details>
+ <summary>Capcom</summary>
+
+* One of the first to normalize on-disc [locked/paid DLC](https://web.archive.org/web/20120404121921/http://www.gamespot.com/news/capcom-defends-on-disc-dlc-report-6369371)
+* Tried suing Koei Tecmo citing a patent that [“Lets you gain new content by combining a new piece of software with an already existing game.”](https://www.eurogamer.net/capcom-files-lawsuit-against-koei-tecmo-for-patent-infringement) AKA DLC/Save data transferring. 
+* Stole artwork from [Judy A. Juracek](https://www.polygon.com/22519568/resident-evil-4-copyright-infringement-lawsuit-capcom).  [[Lawsuit Filing](https://www.scribd.com/document/510767495/Juracek-vs-Capcom-via-Polygon)] | [[Lawsuit Docket](https://www.courtlistener.com/docket/59963205/juracek-v-capcom-co-ltd/)]
+* Allegedly stole monster design from [Richard Raaphorst](https://www.eurogamer.net/movie-director-says-capcom-copied-his-propellerhead-monster-for-resident-evil-village-boss-fight).
+* In February 2022, Saudi Arabia’s Public Investment Fund purchased a [5% stake in Capcom](https://www.middleeastmonitor.com/20220206-saudi-acquires-5-stake-in-capcom-and-nexon-gaming-firms-worth-1bn/) [$332Million USD~]
+* </details>
+
+
+<details>
+ <summary>Sega</summary>
+
+ Workers at Sega of America say the company is trying to [lay them off](https://kotaku.com/sega-sonic-union-layoffs-persona-yakuza-1851026309) as retaliation for [unionizing](https://kotaku.com/sega-unionize-sonic-angry-birds-yakuza-persona-nlrb-1850369510).
+</details>
+
+
+<details>
+ <summary>Nintendo</summary>
+
+* DMCA on LockPick RCM over unrelated ToTK leak.
+* Lawsuit on Bowser
+* DMCA’s on numerous Youtubers and streamers
+* Updated 3DS firmware just after dropping all support/shutting down the eshop for the console, just to target and remove homebrewing. 
+* Sent a [Cease & Desist order to Youtuber CptnAlex](https://twitter.com/Cptn_Alex/status/1335790704895942659) for selling themed joycon shells in [honor of the late Etika](https://www.svg.com/156610/nintendo-youtuber-etika-found-dead-at-29/) to [raise charity money](https://twitter.com/Cptn_Alex/status/1207047965883408386) for the JED Foundation. 
+* Sent a [Cease & Desist](https://twitter.com/TheBigHouseSSB/status/1329521081577857036) to Smash Bros tournament Big House because of [unauthorized mods](https://twitter.com/pshanley88/status/1329544558288400384?s=20).
+* The Joy-Con [drift issue & class action lawsuit](https://www.polygon.com/2019/7/22/20704203/joy-con-drift-class-action-lawsuit-nintendo-switch).
+* They partnered with Foxconn for the Wii-U. A company [known to use child labor](https://kotaku.com/report-chinese-kids-were-used-to-manufacture-the-wii-u-5952422), among many [other things](https://www.cnet.com/tech/tech-industry/riots-suicides-and-other-issues-in-foxconns-iphone-factories/).
+* Reverse Engineered the code for the original Donkey Kong, [cutting it’s original creator out](https://www.timeextension.com/features/flashback-meet-ikegami-tsushinki-the-donkey-kong-developer-that-sued-nintendo-and-won) completely for the games sequel. 
+* The [Donkey Kong costume](https://www.latimes.com/local/lanow/la-me-ln-donkey-kong-sues-nintendo-20141202-story.html) injured its wearers. 
+* Super Mario Bros for the Wii’s virtual console is [allegedly an illegal ROM](https://www.eurogamer.net/did-nintendo-download-a-mario-rom-and-sell-it-back-to-us).
+* They sued the creator of the [Game Genie](https://scholar.google.com/scholar_case?case=14167398686354689030&hl=en&as_sdt=2&as_vis=1&oi=scholarr). ([and lost](https://law.justia.com/cases/federal/appellate-courts/F2/964/965/341457/))
+* I skipped over a lot of smaller issues/controversies. Here is a list of them as well as [the site I used to gather a lot of this information](https://www.svg.com/252281/the-shady-side-of-nintendo/).
+</details>

@@ -1,5 +1,5 @@
 <details>
- <summary># Activision/Blizzard</summary>
+ <summary>Activision/Blizzard</summary>
 
 * Ignored Complaints of [sexual harassment](https://www.forbes.com/sites/tylerroush/2023/02/03/activision-blizzard-will-pay-sec-35-million-to-settle-claims-over-its-workplace-misconduct-disclosures/?sh=6e64930c642d)
 * Harassment potentially led to the [suicide of an employee](https://screenrant.com/activision-blizzard-wrongful-death-lawsuit-deceased-employee/)
@@ -7,7 +7,7 @@
 </details>
 
 <details>
-  <summary># Bethesda</summary>
+  <summary>Bethesda</summary>
 
 * Allegedly didn’t pay Russian development studio Madia for “Echelon” [box sales](https://www.bluesnews.com/a/268/open-letter-to-bethesda-softworks). ([Bethesda’s follow-up letter](https://www.bluesnews.com/cgi-bin/board.pl?action=viewthread&boardid=1&threadid=30665&id=15756&start=20))
 * Accused of attempting a hostile acquisition of [Human Head Studios](https://www.ign.com/articles/2013/06/05/what-went-wrong-with-human-heads-prey-2). 
